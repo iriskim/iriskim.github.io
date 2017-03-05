@@ -44,11 +44,12 @@ there are definitely some properties you should add!*/
     }
     a {
         color: #7FFF00;
-        font-size: 20px;
+        font-size: 21px
+
     }
     section {
         font-size: 18px;
-        font-family: sans-serif;
+        font-family: helvetica;
         padding: 20px;
         margin: 10px;
         color: #FDF5E6;
@@ -69,7 +70,6 @@ aside {
     footer {
         width: 790px;
         background-color:;
-        color:;
         clear: both;
         display: block;
     }
